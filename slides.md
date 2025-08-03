@@ -14,31 +14,19 @@ transition: slide-left
 
 ## 🎧 What is Vibe Coding?
 
-- It's more than just typing code.
-- It’s coding with **flow**, **rhythm**, and **visual feedback**.
-- A seamless blend of:
-  - **Developer experience**
-  - **Tooling aesthetics**
-  - **Zen productivity**
+Vibe Coding is not just writing code  
+it's about crafting software with **flow**, **joy**, and **aesthetics**.
+
+you’re not just coding.  
+You're vibing with the machine.
 
 ---
 
-## transition: slide-down
 
-## 🎯 Why Does It Matter?
+## 🎯 Popular Tools
 
-- Traditional editors are functional—but dull.
-- Vibe coding enhances:
-  - Focus & immersion
-  - Motivation
-  - Emotional engagement
-- Think of it as _Spotify + VS Code + dopamine_.
+generally speaking about most popular tools like Robbin, Windsurf, Cline, Copilot
 
----
-
-## 🚀 Enter Cursor
-
-> _The AI-first code editor built for deep focus_
 
 ---
 
@@ -47,12 +35,38 @@ transition: slide-left
 - A modern code editor based on **VS Code**
 - Supercharged with **AI-native features**
 - Designed to help you:
-  - **Understand code**
-  - **Refactor faster**
-  - **Build smarter**
 
 ---
 
+## 🚀 Why Cursor
+
+> _The AI-first code editor built for deep focus_
+
+- Rules
+- Memory bank
+- Curesor/ignore
+- Smarter AI
+
+---
+
+## Tricks
+
+- Project discription
+- Prompt break down
+
+---
+
+## Knowledge Base
+
+- explain it more
+
+---
+## Privacy and Context
+
+---
+## ⚔️ Cursor with Ollama 
+
+---
 ## 🧠 Key Features of Cursor
 
 - Inline AI coding assistant (`Cmd + K`)
@@ -60,27 +74,6 @@ transition: slide-left
 - Natural language search across codebase
 - Built-in refactors (rename, extract, simplify)
 - Integrated Git & terminal
-
----
-
-## 🌀 Cursor Meets Vibe Coding
-
-- Sleek dark theme & motion
-- Frictionless command bar
-- No distractions → pure coding flow
-- Custom snippets, extensibility
-- It's not just an IDE. It's a _vibe_.
-
----
-
-## ⚔️ Cursor vs Traditional IDEs
-
-| Feature          | Cursor           | VS Code / Others    |
-| ---------------- | ---------------- | ------------------- |
-| AI integration   | ✅ Built-in      | 🔄 Requires plugins |
-| Code explanation | ✅ Context-aware | ❌ Manual or plugin |
-| Productivity UX  | ✅ Streamlined   | 🟡 Mixed experience |
-| Learning curve   | 🟢 Easy for devs | 🟢 Fair             |
 
 ---
 
@@ -107,3 +100,6 @@ transition: slide-left
 # 🧘‍♂️ Code. Flow. Repeat.
 
 ## Thanks! 🙌
+> 
+>  _Abdullah Alamin_
+> 
