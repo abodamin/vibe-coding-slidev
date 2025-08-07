@@ -12,7 +12,9 @@ transition: slide-left
 
 ---
 
-## 🎧 What is Vibe Coding?
+## 🎧  What is Vibe Coding?
+
+<br>
 
 Vibe Coding is not just writing code  
 it's about crafting software with **flow**, **joy**, and **aesthetics**.
@@ -25,75 +27,137 @@ You're vibing with the machine.
 
 ## 🎯 Popular Tools
 
-generally speaking about most popular tools like Robbin, Windsurf, Cline, Copilot
+<br>
 
+- <img src="./images/copilot_image.png" alt="Copilot" width="32" style="display:inline; vertical-align:middle; margin-right:8px;"> **GitHub Copilot** 
+
+- <img src="./images/claude_image.png" alt="Copilot" width="32" style="display:inline; vertical-align:middle; margin-right:8px;"> **Claude Code** 
+
+- <img src="./images/cursor_image.png" alt="Copilot" width="32" style="display:inline; vertical-align:middle; margin-right:8px;"> **Cursor** 
+
+- <img src="./images/cline_image.png" alt="Copilot" width="32" style="display:inline; vertical-align:middle; margin-right:8px;"> **Cline** 
+
+
+<div v-click.animate>
+  and so many other tools ...
+</div>
 
 ---
 
 ## ✨ What is Cursor?
 
+<br>
+<br>
+
 - A modern code editor based on **VS Code**
+
 - Supercharged with **AI-native features**
-- Designed to help you:
+
+- Integrated Git & Terminal
 
 ---
 
-## 🚀 Why Cursor
+## 🚀 Why Cursor?
+
+<br>
 
 > _The AI-first code editor built for deep focus_
 
-- Rules
-- Memory bank
-- Curesor/ignore
-- Smarter AI
+<br>
+
+- Cursor/Rules
+
+- Cursor/Memory-bank
+
+- Cursor/Ignore
 
 ---
 
-## Tricks
+## Tips and Tricks 
+
+<br>
 
 - Project discription
+
 - Prompt break down
 
----
+- Think before write
 
-## Knowledge Base
-
-- explain it more
+- 95% change
 
 ---
+
 ## Privacy and Context
 
----
-## ⚔️ Cursor with Ollama 
+<br>
+
+Prompt 
+
+> write unit test for login function
+
+Actual prompt 
+
+> You are [role] and ....
+
+> @class UserCredintials { ... }
+
+>@class AuthenticateUser{ ... }
+
+>@class LoginUser{ ... }
+
+> write unit test for login function 😀
+
 
 ---
-## 🧠 Key Features of Cursor
 
-- Inline AI coding assistant (`Cmd + K`)
-- AI-powered file explanations
-- Natural language search across codebase
-- Built-in refactors (rename, extract, simplify)
-- Integrated Git & terminal
+## 🤝 Cursor with Ollama 
+
+<br> 
+
+What is Ollama?
+
+**Ollama** is a tool to run LLMs locally (PC/Server)
+
+<br>
+Let's **Vibe Code** with privacy
 
 ---
 
-## 🌈 Why You Should Try It
+## Download Ollama
+
+<br>
+
+- Download Ollama
+- Choose LLM
+- Chat 💬
+
+---
+
+## 🚀 Why You Should Try It
+
+<br>
 
 - You're a developer, not a typist.
-- Let Cursor:
+
+<br>
+
+- Let AI:
   - Handle the boilerplate
   - Summarize that legacy file
   - Auto-complete like a genius
 
-> Vibe Coding isn’t a meme—it's your new superpower.
+  <br>
+
+> Vibe Coding is not to replace  —it's the new superpower 💪
+
+---
+BUT 
+> there is always security concerns ..
 
 ---
 
 ## 📦 Resources
 
-- [https://www.cursor.so](https://www.cursor.so)
-- [https://sli.dev](https://sli.dev)
-- [https://github.com/slidevjs/slidev](https://github.com/slidevjs/slidev)
 
 ---
 
