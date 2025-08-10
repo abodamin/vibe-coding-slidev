@@ -6,95 +6,154 @@ class: lead
 transition: slide-left
 ---
 
-# 👾 Vibe Coding & Cursor
+# 👾 HAI 
 
-## A New Way to Feel Code, Not Just Write It
+## Better Ways to Use AI
+<br>
+<br>
+<v-click>
 
----
+> better way to use AI
 
-## 🎧 What is Vibe Coding?
+</v-click>
 
-- It's more than just typing code.
-- It’s coding with **flow**, **rhythm**, and **visual feedback**.
-- A seamless blend of:
-  - **Developer experience**
-  - **Tooling aesthetics**
-  - **Zen productivity**
 
 ---
 
-## transition: slide-down
+## 🎧 What's your problem with AI?
 
-## 🎯 Why Does It Matter?
+<br>
 
-- Traditional editors are functional—but dull.
-- Vibe coding enhances:
-  - Focus & immersion
-  - Motivation
-  - Emotional engagement
-- Think of it as _Spotify + VS Code + dopamine_.
+seriously...
 
----
+<ul>
+  <li v-click>Trust issue</li>
+  <li v-click>Smart + Computer</li>
+  <li v-click>It is Not everywhere</li>
+  <li v-click>It Just talks</li>
+  <li v-click>Connectivity</li>
+  <li v-click>Lack of context</li>
+</ul>
 
-## 🚀 Enter Cursor
+<br>
+<br>
+<div v-click>how to overcome this ?</div>
 
-> _The AI-first code editor built for deep focus_
-
----
-
-## ✨ What is Cursor?
-
-- A modern code editor based on **VS Code**
-- Supercharged with **AI-native features**
-- Designed to help you:
-  - **Understand code**
-  - **Refactor faster**
-  - **Build smarter**
 
 ---
 
-## 🧠 Key Features of Cursor
+## Ollama
 
-- Inline AI coding assistant (`Cmd + K`)
-- AI-powered file explanations
-- Natural language search across codebase
-- Built-in refactors (rename, extract, simplify)
-- Integrated Git & terminal
+<br>
+Ollama is a tool to run LLM models locally on device
 
----
+- Download Ollama
+<br>
 
-## 🌀 Cursor Meets Vibe Coding
+- Select a LLM model
+- MSTY or LM Studio
 
-- Sleek dark theme & motion
-- Frictionless command bar
-- No distractions → pure coding flow
-- Custom snippets, extensibility
-- It's not just an IDE. It's a _vibe_.
 
 ---
 
-## ⚔️ Cursor vs Traditional IDEs
+## 💉 Ollama+ Msty Features
 
-| Feature          | Cursor           | VS Code / Others    |
-| ---------------- | ---------------- | ------------------- |
-| AI integration   | ✅ Built-in      | 🔄 Requires plugins |
-| Code explanation | ✅ Context-aware | ❌ Manual or plugin |
-| Productivity UX  | ✅ Streamlined   | 🟡 Mixed experience |
-| Learning curve   | 🟢 Easy for devs | 🟢 Fair             |
+<br>
+
+<!-- Add image of MSTY -->
+- Chat like GPT
+<br>
+
+- Add attachments
+- Add network capability
+- Talk to remote models (claude, GPT, Gemeni ,,,etc)
+- Personas
+- Special prompts
+- Automate tasks 
+
+---
+
+## 🤓 Vibe Coding + Ollama
+
+<!-- test on local and work devices -->
+<br>
+Using VSCode + cline/cursor plugin 
+
+<br>
+
+- Download VS code 
+<br>
+- Add Cline/Cursor as plugin
+- Connect to localhost:11434 
+
+- Vibe code and privatly on your machine
+
+---
+layout: center
+---
+
+## Whats Next?
+
+<br>
+<br>
+<div v-click>Automation!</div>
+
 
 ---
 
-## 🌈 Why You Should Try It
+## Automation
+<br>
+Tools
+<li>Langchain</li>
+<li>Langrapg</li>
+<li>n8n</li>
 
-- You're a developer, not a typist.
-- Let Cursor:
-  - Handle the boilerplate
-  - Summarize that legacy file
-  - Auto-complete like a genius
+Usecases
+<li> Finance: reconciliations, invoice parsing, budget Q&A </li>
+<li> HR: JD drafting, policy Q&A, screening helpers </li>
+<li> Procurement: RFQ drafting, vendor comparison, contract diff</li>
 
-> Vibe Coding isn’t a meme—it's your new superpower.
+<br>
+On local server for Tasheer staff
 
 ---
+
+## BUT 
+
+<br>
+there is always a BUT .. .
+
+<br>
+<br>
+
+<li> Regulations </li>
+<li> Cost </li>
+<li> Security </li>
+
+
+---
+
+## BUT .. BUT! 
+
+AI is not a project it's a tool, enabler, productivity booster, NEW + POWER
+
+<li> Regulations -> internal users only, encryption, built internally </li>
+<li> Cost -> ~ 0$, old servers/laptops </li>
+<li> Security -> internal users, very limited access, tutorials/Read me, clear files/data priodically </li>
+
+1 team + AI = 10x
+<br>
+1 company + AI = 200x
+
+---
+
+## Conclusion
+
+
+
+
+---
+
 
 ## 📦 Resources
 
