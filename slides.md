@@ -6,33 +6,34 @@ class: lead
 transition: slide-left
 ---
 
-# 👾 HAI 
+#  BAI 
 
-## Better Ways to Use AI
+## Better Ways to Use AI 🤓
 <br>
 <br>
 <v-click>
 
-> better way to use AI
+
 
 </v-click>
 
 
 ---
 
-## 🎧 What's your problem with AI?
+## 👾 What's wrong with AI?
 
 <br>
-
-seriously...
-
+<v-click>seriously...</v-click>
+<br>
+<br>
 <ul>
-  <li v-click>Trust issue</li>
-  <li v-click>Smart + Computer</li>
-  <li v-click>It is Not everywhere</li>
-  <li v-click>It Just talks</li>
-  <li v-click>Connectivity</li>
-  <li v-click>Lack of context</li>
+  <li v-click> Trust issue</li>
+  <li v-click> Someone's else smart computer</li>
+  <li v-click> Lack of context</li>
+  <li v-click> Creativity blocker</li>
+  <li v-click> Not everywhere</li>
+  <li v-click> It just talks!</li>
+  
 </ul>
 
 <br>
@@ -45,7 +46,7 @@ seriously...
 ## Ollama
 
 <br>
-Ollama is a tool to run LLM models locally on device
+Ollama is a tool to run LLM models locally 
 
 - Download Ollama
 <br>
@@ -149,20 +150,19 @@ AI is not a project it's a tool, enabler, productivity booster, NEW + POWER
 
 ## Conclusion
 
+Let's put AI where it belongs, in hand, under control, everywhere.
+
+By keeping AI local, we unlock creativity at scale. Developers can build features that respect users’ data without compromise. AI on your own machine turns the computer from a mere tool into a collaborator that’s always present, always private, and always yours. That’s the future worth building.
 
 
 
 ---
-
-
-## 📦 Resources
-
-- [https://www.cursor.so](https://www.cursor.so)
-- [https://sli.dev](https://sli.dev)
-- [https://github.com/slidevjs/slidev](https://github.com/slidevjs/slidev)
-
+layout: center
 ---
 
-# 🧘‍♂️ Code. Flow. Repeat.
+## Abdullah Alamin
 
-## Thanks! 🙌
+<br>
+<br>
+
+> 🙌 Thank you for your time_
