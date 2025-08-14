@@ -81,27 +81,47 @@ layout: center
 ## Ollama
 
 <br>
+<img src="/assests/ollama_logo.png" alt="Ollama logo" width="70" height="70">
+
+
+<br>
 Ollama is a tool to run LLM models locally 
 
 1. Download Ollama
 <br>
 
-2. Select a LLM model
+2. Select LLM model
 3. MSTY / LM Studio 
 
 
 ---
 
-## 💉 Ollama+ MSTY 
+## Models
 
 <br>
-Features
 
-<!-- Add image of MSTY -->
-- Like Chat GPT 
+
+<img src="/assests/ollama_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="40"> Llama 3.1 (8B) - best all-round local chat & assistant on typical PCs
+
+<img src="/assests/deepseek_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="40"> DeepSeek-Coder-V2 (16B) — best for code generation/refactoring  
+
+<img src="/assests/mistral_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="40"> Mixtral 8×7B — best for heavier reasoning with good speed  
+
+ <img src="/assests/qwen_logo.svg" style="display:inline;   vertical-align:middle; margin-right:8px;" width="40"> Qwen2.5-Coder (7B) — best lightweight coder for many languages  
+ 
+ <img src="/assests/chatgpt_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="40"> GPT-OSS (20B) - powerful reasoning, agentic tasks, and versatile developer use cases
+
+- **MiniCPM-V 2.6 (8B)** — best local vision (OCR/image QA)
+
+
+---
+
+## 💉 Ollama + MSTY 
+<br>
+<img src="/assests/msty_logo.png" alt="Ollama logo" width="50" height="50">
 <br>
 
-- Attachments
+- Insert Attachments
 - Network access
 - Remote models (claude, OpenAI, Gemini ,,,etc)
 - Personas
@@ -110,14 +130,11 @@ Features
 
 ---
 
-## 🤓 Vibe Coding + Ollama
-
-<!-- test on local and work devices -->
-<br>
-Using VSCode + cline/cursor plugins 
+## Vibe Coding + Ollama 💻
 
 <br>
-<br>
+
+>VSCode + cline/cursor plugins 
 
 - Download VS code 
 
@@ -145,7 +162,7 @@ Using VSCode + cline/cursor plugins
 
 - Curser rules cheat sheet
 
-- Think before code
+- Think before coding
 
 - No yapping
 <br>
@@ -166,26 +183,18 @@ layout: center
 ## Automation Tools
 
 <br>
+<br>
 
 
-<div class="grid grid-cols-2 gap-10 justify-items-center items-center max-w-5xl mx-auto mt-10">
-  <!-- Row 1 -->
-  <div v-click class="glass-tile -translate-y-2 -rotate-1">
-    <img src="/assests/msty_logo.png" alt="MSTY logo" width="100" height="100">
-  </div>
+<img src="/assests/msty_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="70"> MSTY - automate tasks and files (premiume)
 
-  <div v-click class="glass-tile translate-y-1 rotate-1">
-    <img src="/assests/langgraph_logo.png" alt="LangGraph logo" width="100" height="100">
-  </div>
+<img src="/assests/langgraph_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="70"> Langchain & Langraph - python libraries for RAG actions  
 
-  <!-- Row 2 -->
-  <div v-click class="glass-tile -translate-y-6 rotate-1">
-    <img src="/assests/langchain_logo.png" alt="LangChain logo" width="100" height="100">
-  </div>
-  <div v-click class="glass-tile translate-y-2 -rotate-1">
-    <img src="/assests/n8n_logo.png" alt="n8n logo" width="100" height="100">
-  </div>
-</div>
+ <img src="/assests/n8n_logo.png" style="display:inline;   vertical-align:middle; margin-right:8px;" width="70"> n8n - open source automation tool 
+
+
+
+
 
 ---
 layout: center
@@ -196,26 +205,44 @@ layout: center
 ---
 
 ## Usecases
-<li> Product Manager: write clear user story </li>
-<li> DevOps: Security checks &vaulrnabilities, write better release notes/logs </li>
-<li> Finance: reconciliations, invoice parsing, budget Q&A </li>
-<li> HR: JD drafting, policy Q&A, screening helpers </li>
-<li> Procurement: RFQ drafting, vendor comparison, contract diff</li>
 
 <br>
 
+<li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>  Product Manager: write clear user story </span></li>
 
-1 team + AI = 10x
+<li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>  DevOps: Security checks &vaulrnabilities, write better release notes/logs </span></li>
+
+<li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>  Finance: reconciliations, invoice parsing, budget Q&A </span></li>
+
+<li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>  HR: JD drafting, policy Q&A, screening helpers </span></li>
+
+<li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>  Procurement: RFQ drafting, vendor comparison, contract diff</span></li>
+
 <br>
-1 company + AI = 200x
 
 ---
+layout: center
+---
 
-## Conclusion
 
-Let's put AI where it belongs, in hand, under control, everywhere.
+<br>
+  <p text-xl  italic>
+    <h2> “AI is an enabling layer that can be used to improve everything” </h2>
+  </p>
+  <br>
 
-By keeping AI local, we unlock creativity at scale. Developers can build features that respect users’ data without compromise. AI on your own machine turns the computer from a mere tool into a collaborator that’s always present, always private, and always yours. That’s the future worth building.
+<footer mt-3 op-70>— Jeff Bezos</footer>
+
 
 
 
@@ -223,9 +250,13 @@ By keeping AI local, we unlock creativity at scale. Developers can build feature
 layout: center
 ---
 
-## Abdullah Alamin
+##  Thank you for your time 🙌
 
 <br>
 <br>
 
-> 🙌 Thank you for your time_
+<footer mt-3 op-70>
+  <p> Abdullah Alamin </p>
+</footer>
+
+
