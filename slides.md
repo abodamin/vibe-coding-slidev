@@ -163,35 +163,35 @@ layout: center
 
 ---
 
-## Automation
+## Automation Tools
+
 <br>
-Tools
 
 
 <div class="grid grid-cols-2 gap-10 justify-items-center items-center max-w-5xl mx-auto mt-10">
   <!-- Row 1 -->
   <div v-click class="glass-tile -translate-y-2 -rotate-1">
-    <img src="/assests/msty_logo.webp" alt="MSTY logo">
+    <img src="/assests/msty_logo.png" alt="MSTY logo" width="100" height="100">
   </div>
-  
-  <div v-click class="glass-tile translate-y-6 rotate-1">
-    <img src="/assests/langgraph" alt="LangGraph logo">
+
+  <div v-click class="glass-tile translate-y-1 rotate-1">
+    <img src="/assests/langgraph_logo.png" alt="LangGraph logo" width="100" height="100">
   </div>
 
   <!-- Row 2 -->
   <div v-click class="glass-tile -translate-y-6 rotate-1">
-    <img src="/assests/langgraph" alt="LangChain logo">
+    <img src="/assests/langchain_logo.png" alt="LangChain logo" width="100" height="100">
   </div>
   <div v-click class="glass-tile translate-y-2 -rotate-1">
-    <img src="/assests/langgraph" alt="n8n logo">
+    <img src="/assests/n8n_logo.png" alt="n8n logo" width="100" height="100">
   </div>
 </div>
 
-<li>MSTY</li>
-<li>Langchain & Langraph</li>
-<li>n8n</li>
+---
+layout: center
+---
 
-
+<img src="/assests/n8n_flow.png" alt="n8n logo" width="700" height="500">
 
 ---
 
