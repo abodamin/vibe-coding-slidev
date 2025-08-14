@@ -8,7 +8,7 @@ transition: slide-left
 
 #  BAI 
 
-## Better Ways to Use AI 🤓
+## Better AI
 <br>
 <br>
 <v-click>
@@ -19,27 +19,62 @@ transition: slide-left
 
 
 ---
+layout: center
+---
 
 ## 👾 What's wrong with AI?
 
 <br>
-<v-click>seriously...</v-click>
 <br>
-<br>
-<ul>
-  <li v-click> Trust issue</li>
-  <li v-click> Someone's else smart computer</li>
-  <li v-click> Lack of context</li>
-  <li v-click> Creativity blocker</li>
-  <li v-click> Not everywhere</li>
-  <li v-click> It just talks!</li>
-  
+<div v-click>Seriously..</div>
+
+
+
+---
+
+## 👾 What's wrong with AI?
+
+<ul mt-6 list-none space-y-4 max-w-5xl mx-auto>
+  <li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>Trust issue</span>
+  </li>
+
+<li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>Someone's else smart computer</span>
+  </li>
+
+  <li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>Lack of context</span>
+  </li>
+
+  <li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>Creativity blocker</span>
+  </li>
+
+  <li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg>Not everywhere</span>
+  </li>
+
+  <li v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg> Just talks</span>
+  </li>
 </ul>
 
-<br>
-<br>
-<div v-click>how to overcome this ?</div>
+---
+layout: center
+---
 
+## How to overcome these problems?
+
+<br>
+<br>
+<div v-click>Local LLMs</div>
 
 ---
 
@@ -48,26 +83,27 @@ transition: slide-left
 <br>
 Ollama is a tool to run LLM models locally 
 
-- Download Ollama
+1. Download Ollama
 <br>
 
-- Select a LLM model
-- MSTY or LM Studio
+2. Select a LLM model
+3. MSTY / LM Studio 
 
 
 ---
 
-## 💉 Ollama+ Msty Features
+## 💉 Ollama+ MSTY 
 
 <br>
+Features
 
 <!-- Add image of MSTY -->
-- Chat like GPT
+- Like Chat GPT 
 <br>
 
-- Add attachments
-- Add network capability
-- Talk to remote models (claude, GPT, Gemeni ,,,etc)
+- Attachments
+- Network access
+- Remote models (claude, OpenAI, Gemini ,,,etc)
 - Personas
 - Special prompts
 - Automate tasks 
@@ -78,16 +114,41 @@ Ollama is a tool to run LLM models locally
 
 <!-- test on local and work devices -->
 <br>
-Using VSCode + cline/cursor plugin 
+Using VSCode + cline/cursor plugins 
 
+<br>
 <br>
 
 - Download VS code 
-<br>
+
 - Add Cline/Cursor as plugin
+
 - Connect to localhost:11434 
 
-- Vibe code and privatly on your machine
+ <br>
+
+<div v-click class="insight-banner flex items-center gap-3 rounded-lg px-6 py-3">
+    <div i-carbon:idea text-yellow-300 text-2xl />
+    <span text-lg> Vibe code privatly on your machine</span>
+  </div>
+
+
+
+
+---
+
+## Tips & Tricks
+
+<br>
+
+> Code prompts 
+
+- Curser rules cheat sheet
+
+- Think before code
+
+- No yapping
+<br>
 
 ---
 layout: center
@@ -105,42 +166,44 @@ layout: center
 ## Automation
 <br>
 Tools
-<li>Langchain</li>
-<li>Langrapg</li>
+
+
+<div class="grid grid-cols-2 gap-10 justify-items-center items-center max-w-5xl mx-auto mt-10">
+  <!-- Row 1 -->
+  <div v-click class="glass-tile -translate-y-2 -rotate-1">
+    <img src="/assests/msty_logo.webp" alt="MSTY logo">
+  </div>
+  
+  <div v-click class="glass-tile translate-y-6 rotate-1">
+    <img src="/assests/langgraph" alt="LangGraph logo">
+  </div>
+
+  <!-- Row 2 -->
+  <div v-click class="glass-tile -translate-y-6 rotate-1">
+    <img src="/assests/langgraph" alt="LangChain logo">
+  </div>
+  <div v-click class="glass-tile translate-y-2 -rotate-1">
+    <img src="/assests/langgraph" alt="n8n logo">
+  </div>
+</div>
+
+<li>MSTY</li>
+<li>Langchain & Langraph</li>
 <li>n8n</li>
 
-Usecases
+
+
+---
+
+## Usecases
+<li> Product Manager: write clear user story </li>
+<li> DevOps: Security checks &vaulrnabilities, write better release notes/logs </li>
 <li> Finance: reconciliations, invoice parsing, budget Q&A </li>
 <li> HR: JD drafting, policy Q&A, screening helpers </li>
 <li> Procurement: RFQ drafting, vendor comparison, contract diff</li>
 
 <br>
-On local server for Tasheer staff
 
----
-
-## BUT 
-
-<br>
-there is always a BUT .. .
-
-<br>
-<br>
-
-<li> Regulations </li>
-<li> Cost </li>
-<li> Security </li>
-
-
----
-
-## BUT .. BUT! 
-
-AI is not a project it's a tool, enabler, productivity booster, NEW + POWER
-
-<li> Regulations -> internal users only, encryption, built internally </li>
-<li> Cost -> ~ 0$, old servers/laptops </li>
-<li> Security -> internal users, very limited access, tutorials/Read me, clear files/data priodically </li>
 
 1 team + AI = 10x
 <br>
